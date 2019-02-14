@@ -1,5 +1,7 @@
 # NgxsDemo
 
+This project is based in https://coursetro.com/courses/25/A-Comprehensive-RxJS-Tutorial---Learn-ReactiveX-for-JavaScript-
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
 ## Development server
